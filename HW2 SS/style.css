@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(business_idea_overrated_v2-1024x640.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.ankett{
+    font-size: 20px;
+    color:black;
+    margin-left: 25%;
+    margin-top: 70px;
+}
+.form{
+    height: 815px;
+    width: 800px;
+    background: rgba(0,0,0,0.4);
+    text-align: center;
+    border:2px solid black;
+    border-radius: 20px;
+}
+.quest1{
+    font-family: 'Terminator Cyr Semi-expanded Bold', arial;
+    font-size: 20px;
+}
+.ans{
+    font-size: 15px
+}
+.input{
+    width: 150px;
+    height: 25px;
+    border:1.5px solid yellow;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.button{
+    width: 170px;
+    height: 30px;
+    margin-top: 10px;
+    border:2px solid black;
+}
